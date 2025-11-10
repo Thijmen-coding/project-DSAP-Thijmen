@@ -13,6 +13,7 @@ The project simulates how average returns change when a momentum-based signal is
 ---
 
 ## Folder Structure
+```
 project-DSAP-Thijmen/
 ├── data/                     # Folder for raw and processed datasets (e.g., stock prices)
 │
@@ -29,4 +30,4 @@ project-DSAP-Thijmen/
 ├── main.py                   # Entry point script to run the full analysis
 ├── README.md                 # Project documentation
 └── requirements.txt          # List of dependencies required to run the project
-
+```
